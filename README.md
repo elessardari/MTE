@@ -1,1 +1,1 @@
-Este repositorio contiene los archivos de Simulink necesarios para las simulaciones del workshop en dinámicas poblacionales de MTE
+Este repositorio contiene los archivos de Simulink necesarios para las simulaciones del workshop en dinámicas poblacionales de MTE. Para una descripción detallada del uso de dinámicas poblacionales en optimización y control puede consultar el artículo "Juegos Poblacionales y Modemos Dinámicos de Pago: Un Nuevo Paradigma para Control y Optimización" disponible en https://polipapers.upv.es/index.php/RIAI/article/view/21215/16586 
